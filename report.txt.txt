@@ -1,0 +1,29 @@
+SALES DATA ANALYSIS REPORT
+
+Project:
+Sales Data Analysis
+
+Objective:
+The objective of this project was to analyze a retail sales dataset using Python and generate business insights through Exploratory Data Analysis (EDA).
+
+Tasks Performed:
+1. Loaded the dataset.
+2. Cleaned missing values.
+3. Removed duplicate records.
+4. Converted date columns into datetime format.
+5. Performed descriptive statistical analysis.
+6. Identified top-selling products.
+7. Analyzed category-wise sales.
+8. Analyzed region-wise sales.
+9. Created charts using Matplotlib.
+10. Generated business insights.
+
+Business Insights:
+- Top products contribute significantly to total sales.
+- Sales vary across different regions.
+- Categories perform differently in terms of revenue.
+- Monthly sales show business trends.
+- Profit analysis helps identify the most profitable categories.
+
+Conclusion:
+This project demonstrates the use of Python, Pandas, NumPy, and Matplotlib for cleaning, analyzing, and visualizing sales data to support business decision-making.
